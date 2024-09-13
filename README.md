@@ -1,10 +1,10 @@
 ---
 
-Name : KUMAR MAKKALA  
+Name : Athul Krishna
 Company : CODTECH IT SOLUTIONS  
-ID : CT08WD39  
+ID : CT08DS7176
 Domain : Data Analytics  
-Duration : May to June 2024  
+Duration : Aug to Sep 2024  
 Mentor :  SRAVANI GOUNI  
 
 
