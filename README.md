@@ -3,7 +3,7 @@
 - ID: CT08DS7176
 - Domain: Data Analytics
 - Duration: Aug to Sep 2024
-- Mentor: SRAVANI GOUNI
+- Mentor: SANTHOSH
 
 
 Overview of the Project
